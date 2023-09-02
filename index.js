@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 
 //bodyParser.
 app.use(bodyParser.json());
-
+//postman documentation  https://web.postman.co/workspace/My-Workspace~74735c81-5f9e-45a5-8bd7-250a4d4b6dc2/documentation/28692022-7bd6c742-0884-46fb-af70-16f080b7fe75
 
 
 //local variables for Rooms,Booking and Customers
