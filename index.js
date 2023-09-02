@@ -151,3 +151,30 @@ app.post("/rooms/booking/:no",(req,res) => {
 })
 //port
 app.listen(5000,()=>console.log("port is listening on 5000"))
+
+
+
+
+// //Render
+// 1.First link two view all rooms
+// https://hallbooking-x3r0.onrender.com/rooms/view
+
+
+// //create a new room
+// https://hallbooking-x3r0.onrender.com/rooms/create
+
+
+// //view all booked rooms
+// https://hallbooking-x3r0.onrender.com/rooms/booked
+
+// //view how many time a customer is booked
+// https://hallbooking-x3r0.onrender.com/rooms/Ramesh
+
+// //view all customers data
+// https://hallbooking-x3r0.onrender.com/rooms/customer
+
+// //view how many times a customer has been booked
+// https://hallbooking-x3r0.onrender.com/rooms/Ramesh
+
+// //to book room
+// https://hallbooking-x3r0.onrender.com/rooms/1
